@@ -14,7 +14,7 @@ O protótipo funcional da aplicação pode ser acessado e executado localmente a
 Ao ser executado, o sistema carrega uma interface de Dashboard Financeiro com suporte a três temas visuais intercambiáveis. O usuário consegue alternar entre as visões de "Modo Realizado" (dinheiro efetivamente movimentado em conta) e "Modo Previsto" (projeções orçamentárias). A aplicação realiza o cálculo automático de limites de cartão de crédito e armazena de forma persistente e local (via IndexedDB) cada movimentação de receita ou despesa inserida, operando com precisão de centavos para mitigar falhas nativas de arredondamento de ponto flutuante.
 
 ### 📥 Link para download dos arquivos de execução:
-[Acessar pasta compartilhada no OneDrive](https://1drv.ms/f/c/7faf486a2ae3d77d/IgBRZ6pDBJwJQoll5z7vUc1SAV1mP6rbVd8pfIxLqoRJLOY?e=X6ejKX)
+[Acessar pasta compartilhada no OneDrive-> Link PRIVADO]
 
 #### Instruções para Execução:
 1. Acesse o link do OneDrive acima e realize o download dos arquivos.
