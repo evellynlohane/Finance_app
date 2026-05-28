@@ -72,11 +72,11 @@ A equipe dividiu a execução das tarefas e responsabilidades de forma estratég
 
 ## Registro da Aula
 
-Informações referentes à atividade prática de desenvolvimento do projeto[cite: 1]:
-* **Data:** 11/05/2026[cite: 1]
-* **Atividade:** Discussão crítica + mini-projeto de aplicação[cite: 1]
-* **Local:** Laboratório de informática / Quadro branco[cite: 1]
-* **Professor(a):** Kadidja Valéria[cite: 1]
+Informações referentes à atividade prática de desenvolvimento do projeto:
+* **Data:** 11/05/2026
+* **Atividade:** Discussão crítica + mini-projeto de aplicação
+* **Local:** Laboratório de informática / Quadro branco
+* **Professor(a):** Kadidja Valéria
 
 ---
 
